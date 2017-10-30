@@ -1,3 +1,4 @@
 installdir = $(pkglibdir)/python/Screens
 
-install_PYTHON = *.pyo
+install_PYTHON =  \
+              *.pyo
