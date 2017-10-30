@@ -253,7 +253,12 @@ lib/python/Plugins/Extensions/DVDPlayer/Makefile
 lib/python/Plugins/Extensions/DVDPlayer/meta/Makefile
 lib/python/Plugins/Extensions/GraphMultiEPG/Makefile
 lib/python/Plugins/Extensions/GraphMultiEPG/meta/Makefile
-lib/python/Plugins/Extensions/Makefile
+lib/python/Plugins/Extensions/MeEpgBackup/Makefile
+lib/python/Plugins/Extensions/MeFastEpg/Makefile
+lib/python/Plugins/Extensions/MeFullBackup/Makefile
+lib/python/Plugins/Extensions/MePersonalBackup/Makefile
+lib/python/Plugins/Extensions/MePersonalBackup/icons/Makefile
+lib/python/Plugins/Extensions/Makefile   
 lib/python/Plugins/Extensions/MediaPlayer/Makefile
 lib/python/Plugins/Extensions/MediaPlayer/meta/Makefile
 lib/python/Plugins/Extensions/MediaScanner/Makefile
