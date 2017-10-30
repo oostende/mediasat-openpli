@@ -9,7 +9,7 @@ dist_pkgdata_DATA = \
 	freesat.t2 \
 	iso-639-3.pck \
         keymap.ntr \
-        keymap.xml.xml \
+        keymap.xml \
 	menu.xml \
 	rcpositions.xml \
 	setup.xml \
