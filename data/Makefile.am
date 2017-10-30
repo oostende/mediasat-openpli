@@ -9,7 +9,7 @@ dist_pkgdata_DATA = \
 	freesat.t2 \
 	iso-639-3.pck \
         keymap.ntr \
-	*.xml
+EXTRA_DIST = *.xml
 
 if HAVE_TEXTLCD
 dist_pkgdata_DATA += skin_text.xml
