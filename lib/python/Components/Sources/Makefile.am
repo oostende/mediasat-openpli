@@ -1,3 +1,4 @@
 installdir = $(pkglibdir)/python/Components/Sources
 
-install_PYTHON = *.pyo
+install_PYTHON = \
+               *.pyo
