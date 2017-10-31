@@ -1,5 +1,5 @@
 installdir = $(pkglibdir)/python/Components/Renderer
 
-install_PYTHON = \
+EXTRA_DIST = \
 	*.pyo \
         *.py
