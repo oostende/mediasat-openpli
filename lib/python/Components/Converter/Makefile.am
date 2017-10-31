@@ -1,5 +1,5 @@
 installdir = $(pkglibdir)/python/Components/Converter
 
-install_PYTHON = \
+EXTRA_DIST = \
 	*.py \
         *.pyo
